@@ -40,3 +40,6 @@ Update all the plots when a new sample is selected. Additionally, you are welcom
 
 hw
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+
+
+Disclosure note: This note is to acknowledge that I used external resources while working on this project, such as AI/Chatbots (ChatGPT, Bard/Google), consultations with classmates and different tutors, ASU/Bootcamp tutors, ASKBCS, YouTube tutorials, and other online materials (stackoverflow, Google Colab, etc).
